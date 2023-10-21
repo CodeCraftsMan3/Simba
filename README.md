@@ -78,7 +78,7 @@ These are the available commands, but you can add others.
 <a href="https://www.instagram.com/madmax4708/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=503_madmax)](https://github.com/r0cketp0wer/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=NRocketmann)](https://github.com/r0cketp0wer/github-readme-twitter)
 
 ### Stargazers
-[![Stargazers repo roster for @r0cketp0wer/LinuxVoiceAssistant](https://reporoster.com/stars/r0cketp0wer/LinuxVoiceAssistant)](https://github.com/r0cketp0wer/LinuxVoiceAssistant)
+[![Stargazers repo roster for @r0cketp0wer/Simba](https://reporoster.com/stars/r0cketp0wer/Simba)](https://github.com/r0cketp0wer/Simba)
