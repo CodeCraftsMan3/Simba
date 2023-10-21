@@ -3,9 +3,9 @@
 <p align="center">
 <a href="https://github.com/r0cketp0wer"><img title="Language" src="https://img.shields.io/badge/Made%20with-python-1f425f.svg?v=103"></a>
 <a href="https://github.com/r0cketp0wer"><img title="Followers" src="https://img.shields.io/github/followers/r0cketp0wer?color=blue&style=flat-square"></a>
-<a href="https://github.com/r0cketp0wer"><img title="Stars" src="https://img.shields.io/github/stars/r0cketp0wer/LinuxVoiceAssistant?color=red&style=flat-square"></a>
-<a href="https://github.com/r0cketp0wer"><img title="Forks" src="https://img.shields.io/github/forks/r0cketp0wer/LinuxVoiceAssistant?color=red&style=flat-square"></a>
-<a href="https://github.com/r0cketp0wer"><img title="Watching" src="https://img.shields.io/github/watchers/r0cketp0wer/LinuxVoiceAssistant?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/r0cketp0wer"><img title="Stars" src="https://img.shields.io/github/stars/r0cketp0wer/Simba?color=red&style=flat-square"></a>
+<a href="https://github.com/r0cketp0wer"><img title="Forks" src="https://img.shields.io/github/forks/r0cketp0wer/Simba?color=red&style=flat-square"></a>
+<a href="https://github.com/r0cketp0wer"><img title="Watching" src="https://img.shields.io/github/watchers/r0cketp0wer/Simba?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/r0cketp0wer"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 </p>
 
